@@ -1,2 +1,3 @@
 class CatName < ApplicationRecord
+  
 end
